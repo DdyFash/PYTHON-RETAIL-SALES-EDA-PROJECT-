@@ -12,7 +12,7 @@ The dataset consists of **1,000,000 rows** and **22 columns**. Key features incl
 - **📊 Purchase Details**: quantity, unit_price, discount_applied, total_price
 - **🏬 Store Data**: payment_method, store_location
   
-  ##🔗 Dataset Access
+##🔗 Dataset Access
 Due to the large size of the dataset, it can be accessed and downloaded from Kaggle using the following link:
 https://www.kaggle.com/datasets/utkalk/large-retail-data-set-for-eda
 
